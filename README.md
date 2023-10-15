@@ -23,7 +23,7 @@ A Frontend Mentor project to recreate a given design of a QR code graphic with o
 
 ### Links
 
-- Live Site URL: [Live Site]()
+- Live Site URL: [Github Pages](https://paresh2421.github.io/qr-code-component-main/)
 
 ## My process
 It is a simple page which needed basic css and html.
