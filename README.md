@@ -15,12 +15,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 A Frontend Mentor project to recreate a given design of a QR code graphic with only CSS and HTML.
 ### Screenshot
-- Desktop View
+- Different views
    ![Desktop View](./images/desktop-screeenshot.png)
-
-- Mobile View
    ![Mobile View](./images/mobile-screenshot.png)
-
+  
 ### Links
 
 - Live Site URL: [Github Pages](https://paresh2421.github.io/qr-code-component-main/)
